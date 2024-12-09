@@ -17,4 +17,6 @@ https://farmingsimulator25mods.com/prinoth-sf900-tree-deleter-v1-1/
 
 https://farmingsimulator25mods.com/universal-autoload-v0-0-0-3/
 
+https://farmingsimulator25mods.com/time-saving-stock-check-v1-0/
+
 Add .zip file to C:\Users\*username*\Documents\My Games\FarmingSimulator2025\mods
