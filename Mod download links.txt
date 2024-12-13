@@ -1,6 +1,18 @@
 Changelog:
 ==========
 08.12.2024: First version with changelog (tek604)
+13.12.2024: Added mod version table (tek604)
+
+Current Mod Versions:
+=====================
+ContractServiceProvider: 1.0.0.1
+autoload storage shed: 1.0.0.0
+Super Force (KingMods): 1.0.0.2
+Universal Autoload: 0.1.0.1
+Prinoth SF900 Tree Deleter: 1.1.0.0
+SILOMULTIFRUIT: 1.0.0.0
+Greenhouse Automatic Watering: 1.0.0.0
+Time Saving Stock Check: 1.0.0.0
 
 ==========
 https://farmingsimulator25mods.com/more-contracts-v1-0-0-1/
@@ -19,4 +31,4 @@ https://farmingsimulator25mods.com/universal-autoload-v0-0-0-3/
 
 https://farmingsimulator25mods.com/time-saving-stock-check-v1-0/
 
-Add .zip file to C:\Users\*username*\Documents\My Games\FarmingSimulator2025\mods
+Add .zip file to C:\Users\<username>\Documents\My Games\FarmingSimulator2025\mods

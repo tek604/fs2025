@@ -15,6 +15,8 @@ The file you are reading now :)
 
 Mod download links:
 The list of mods in use on the Pepega Squadron Farm.
+When adding a new mod, don't forget to update the version numbers table and
+change log.
 
 savegame1:
 The farm, as downloaded from the server. When committing this file, you should
