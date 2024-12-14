@@ -8,6 +8,12 @@ How To Become A Collaborator
 ============================
 Only members of the Pepega Squadron will be allowed to become a collaborator.
 
+Admins & Mods
+=============
+Some members of the Pepega Squadron are server admins. They can download the
+mods outlined in "Mod download links.txt", to give you the same set of mods
+as are running on the server.
+
 Archived Files
 ==============
 README:

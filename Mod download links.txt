@@ -14,21 +14,24 @@ SILOMULTIFRUIT: 1.0.0.0
 Greenhouse Automatic Watering: 1.0.0.0
 Time Saving Stock Check: 1.0.0.0
 
+Mod Links:
 ==========
 https://farmingsimulator25mods.com/more-contracts-v1-0-0-1/
 
 https://farmingsimulator25mods.com/storage-shed-autoload-v1-0-0-1/
 
-https://farmingsimulator25mods.com/silo-multifruits-v1-0/
-
 https://farmingsimulator25mods.com/super-force-multiplayer-compatible-v1-0-0-2/
-
-https://farmingsimulator25mods.com/greenhouse-automatic-watering-v1-0/
-
-https://farmingsimulator25mods.com/prinoth-sf900-tree-deleter-v1-1/
 
 https://farmingsimulator25mods.com/universal-autoload-v0-0-0-3/
 
+https://farmingsimulator25mods.com/prinoth-sf900-tree-deleter-v1-1/
+
+https://farmingsimulator25mods.com/silo-multifruits-v1-0/
+
+https://farmingsimulator25mods.com/greenhouse-automatic-watering-v1-0/
+
 https://farmingsimulator25mods.com/time-saving-stock-check-v1-0/
 
+Installation:
+=============
 Add .zip file to C:\Users\<username>\Documents\My Games\FarmingSimulator2025\mods
