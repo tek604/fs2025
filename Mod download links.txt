@@ -2,6 +2,7 @@ Changelog:
 ==========
 08.12.2024: First version with changelog (tek604)
 13.12.2024: Added mod version table (tek604)
+15.12.2024: Added Move Placeables (tek604)
 
 Current Mod Versions:
 =====================
@@ -12,6 +13,7 @@ Universal Autoload: 0.1.0.1
 Prinoth SF900 Tree Deleter: 1.1.0.0
 SILOMULTIFRUIT: 1.0.0.0
 Greenhouse Automatic Watering: 1.0.0.0
+Move Placeables: 1.0.0.0
 Time Saving Stock Check: 1.0.0.0
 
 Mod Links:
@@ -22,6 +24,7 @@ https://farmingsimulator25mods.com/storage-shed-autoload-v1-0-0-1/
 
 https://farmingsimulator25mods.com/super-force-multiplayer-compatible-v1-0-0-2/
 
+(this link needs updating)
 https://farmingsimulator25mods.com/universal-autoload-v0-0-0-3/
 
 https://farmingsimulator25mods.com/prinoth-sf900-tree-deleter-v1-1/
@@ -29,6 +32,8 @@ https://farmingsimulator25mods.com/prinoth-sf900-tree-deleter-v1-1/
 https://farmingsimulator25mods.com/silo-multifruits-v1-0/
 
 https://farmingsimulator25mods.com/greenhouse-automatic-watering-v1-0/
+
+https://www.farming-simulator.com/mod.php?mod_id=304991&title=fs2025
 
 https://farmingsimulator25mods.com/time-saving-stock-check-v1-0/
 
