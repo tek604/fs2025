@@ -3,13 +3,14 @@ Changelog:
 08.12.2024: First version with changelog (tek604)
 13.12.2024: Added mod version table (tek604)
 15.12.2024: Added Move Placeables (tek604)
+22.12.2024: Updated UniversalAutoload to 0.3.0.3 (Trip)
 
 Current Mod Versions:
 =====================
 ContractServiceProvider: 1.0.0.1
 autoload storage shed: 1.0.0.0
 Super Force (KingMods): 1.0.0.2
-Universal Autoload: 0.1.0.1
+Universal Autoload: 0.3.0.3
 Prinoth SF900 Tree Deleter: 1.1.0.0
 SILOMULTIFRUIT: 1.0.0.0
 Greenhouse Automatic Watering: 1.0.0.0
