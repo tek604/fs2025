@@ -4,6 +4,7 @@ Changelog:
 13.12.2024: Added mod version table (tek604)
 15.12.2024: Added Move Placeables (tek604)
 22.12.2024: Updated UniversalAutoload to 0.3.0.3 (Trip)
+22.12.2024: Added Root Crop Storage (tek604)
 
 Current Mod Versions:
 =====================
