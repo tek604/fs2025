@@ -20,3 +20,8 @@ tek604
 - to be ploughed together?
 
 * 33: close, and turn to woodland
+
+* aminals: sell goats, replace with sheep (extra wool production)
+
+* if oil mill moved to 77, then place tailor shop next to spinnery
+- 34 for cotton?

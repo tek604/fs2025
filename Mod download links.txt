@@ -15,7 +15,7 @@ Prinoth SF900 Tree Deleter: 1.1.0.0
 SILOMULTIFRUIT: 1.0.0.0
 Greenhouse Automatic Watering: 1.0.0.0
 Move Placeables: 1.0.0.0
-Time Saving Stock Check: 1.0.0.0
+Root Crop Storage: 1.0.0.0
 
 Mod Links:
 ==========
@@ -37,6 +37,8 @@ https://farmingsimulator25mods.com/greenhouse-automatic-watering-v1-0/
 https://www.farming-simulator.com/mod.php?mod_id=304991&title=fs2025
 
 https://farmingsimulator25mods.com/time-saving-stock-check-v1-0/
+
+https://www.farming-simulator.com/mod.php?mod_id=303719&title=fs2025
 
 Installation:
 =============
