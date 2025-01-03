@@ -19,6 +19,9 @@ Archived Files
 README:
 The file you are reading now :)
 
+Plans:
+A file where contributors can add any plans/ideas for the farm going forward.
+
 Mod download links:
 The list of mods in use on the Pepega Squadron Farm.
 When adding a new mod, don't forget to update the version numbers table and
