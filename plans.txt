@@ -18,16 +18,13 @@ tek604
 ======
 * 77 is the new production area
 - harvest corn first, then build sugar mill
-- also move oil mill here?
+- move oil mill here
 - place to store harvesters
 
 * 39: sugar beet
 * 38: sunflowers
 - to be ploughed together?
 
-* 33: close, and turn to woodland
-
-* aminals: sell goats, replace with sheep (extra wool production)
-
-* if oil mill moved to 77, then place tailor shop next to spinnery
+* tailor shop next to spinnery
 - 34 for cotton?
+-- stevie suggested 7

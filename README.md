@@ -30,3 +30,9 @@ change log.
 savegame1:
 The farm, as downloaded from the server. When committing this file, you should
 add the download date to the commit message.
+
+Game Notes
+==========
+Chikis use ~1000l grain/month
+Cows use ~14000l TMR/month, ~4000l straw/month
+Goats/sheeps use ~4000l grass/month
