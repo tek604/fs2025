@@ -2,6 +2,7 @@ Changelog:
 ==========
 03.01.2025: First version (tek604)
 03.01.2025: Added comment for everyone (tek604)
+10.01.2025: Added ideas from stevie & mdc5000 (tek604)
 
 Map:
 ====
@@ -16,15 +17,23 @@ i notice that putting deez nuts on mdc's chin is not on the list
 
 tek604
 ======
-* 77 is the new production area
-- harvest corn first, then build sugar mill
+* 77: industrial area
 - move oil mill here
-- place to store harvesters
+- build small silo for grain overflow
 
-* 39: sugar beet
-* 38: sunflowers
-- to be ploughed together?
+* spinnery to current oil mill position
+* tailor shop next door
 
-* tailor shop next to spinnery
-- 34 for cotton?
--- stevie suggested 7
+stevie
+======
+* 7: cotton
+
+mdc5000
+=======
+* 39: industrial area
+- cooper
+- biogas plant
+
+*36: sugar beet
+
+* 34: split in "half", and test different types of tree
