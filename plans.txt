@@ -3,6 +3,7 @@ Changelog:
 03.01.2025: First version (tek604)
 03.01.2025: Added comment for everyone (tek604)
 10.01.2025: Added ideas from stevie & mdc5000 (tek604)
+26.01.2025: Added Field Plan, updated 39 (tek604)
 
 Map:
 ====
@@ -15,6 +16,13 @@ Everyone
 Stevie_ray_vaughan — Today at 12:25
 i notice that putting deez nuts on mdc's chin is not on the list
 
+Field Plan:
+===========
+- Barley: 36, 49
+- Canola: 1, 6, 24, 25,26
+- Cotton: 7
+- Sugar Beet: 38
+
 tek604
 ======
 * 77: industrial area
@@ -26,14 +34,14 @@ tek604
 
 stevie
 ======
-* 7: cotton
 
 mdc5000
 =======
 * 39: industrial area
-- cooper
+- cooper?
 - biogas plant
 
-*36: sugar beet
+* Review of tree types
 
-* 34: split in "half", and test different types of tree
+* 35: wheat/barley??
+

@@ -33,6 +33,17 @@ add the download date to the commit message.
 
 Game Notes
 ==========
-Chikis use ~1000l grain/month
-Cows use ~14000l TMR/month, ~4000l straw/month
-Goats/sheeps use ~4000l grass/month
+Animals:
+========
+* Chikis: ~1000l grain/month
+* Cows: ~14000l TMR/month, ~4000l straw/month
+* Goats/sheeps: ~4000l grass/month
+
+Crops:
+======
+Factories seem to hold ~10 months worth maximum
+
+* Canola: ~9600l/month
+* Wheat: ~12600l/month
+* Wool: ~4320l/month (TBC)
+* Sugar Beet: ~25440l/month
