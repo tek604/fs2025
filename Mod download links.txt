@@ -11,7 +11,7 @@ Current Mod Versions:
 ContractServiceProvider: 1.0.0.1
 autoload storage shed: 1.0.0.0
 Super Force (KingMods): 1.0.0.2
-Universal Autoload: 0.3.0.3
+Universal Autoload: 0.4.3.0
 Prinoth SF900 Tree Deleter: 1.1.0.0
 SILOMULTIFRUIT: 1.0.0.0
 Greenhouse Automatic Watering: 1.0.0.0
@@ -26,7 +26,6 @@ https://farmingsimulator25mods.com/storage-shed-autoload-v1-0-0-1/
 
 https://farmingsimulator25mods.com/super-force-multiplayer-compatible-v1-0-0-2/
 
-(this link needs updating)
 https://farmingsimulator25mods.com/universal-autoload-v0-0-0-3/
 
 https://farmingsimulator25mods.com/prinoth-sf900-tree-deleter-v1-1/
