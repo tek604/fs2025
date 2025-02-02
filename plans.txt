@@ -4,6 +4,7 @@ Changelog:
 03.01.2025: Added comment for everyone (tek604)
 10.01.2025: Added ideas from stevie & mdc5000 (tek604)
 26.01.2025: Added Field Plan, updated 39 (tek604)
+02.02.2025: Updated plan for fields 3 & 4 (tek604)
 
 Map:
 ====
@@ -22,26 +23,20 @@ Field Plan:
 - Canola: 1, 6, 24, 25,26
 - Cotton: 7
 - Sugar Beet: 38
+- Wheat: 2 (planned: 3 & 4)
 
 tek604
 ======
 * 77: industrial area
-- move oil mill here
 - build small silo for grain overflow
-
-* spinnery to current oil mill position
-* tailor shop next door
 
 stevie
 ======
+3 & 4, for a wheat field
 
 mdc5000
 =======
 * 39: industrial area
-- cooper?
 - biogas plant
 
 * Review of tree types
-
-* 35: wheat/barley??
-
