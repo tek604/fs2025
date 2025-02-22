@@ -5,6 +5,7 @@ Changelog:
 10.01.2025: Added ideas from stevie & mdc5000 (tek604)
 26.01.2025: Added Field Plan, updated 39 (tek604)
 02.02.2025: Updated plan for fields 3 & 4 (tek604)
+22.02.2025: Updated field plans, added vanilla tweaks by stevie (tek604)
 
 Map:
 ====
@@ -20,10 +21,10 @@ i notice that putting deez nuts on mdc's chin is not on the list
 Field Plan:
 ===========
 - Barley: 36, 49
-- Canola: 1, 6, 24, 25,26
-- Cotton: 7
+- Canola: 1, 6, 24, 25, 26
+- Cotton: 2, 7
 - Sugar Beet: 38
-- Wheat: 2 (planned: 3 & 4)
+- Wheat: 3 & 4
 
 tek604
 ======
@@ -32,7 +33,10 @@ tek604
 
 stevie
 ======
-3 & 4, for a wheat field
+check out the mods done by "stevie":
+https://farmingsimulator25mods.com/?s=stevie
+
+These are vanilla tweaks.
 
 mdc5000
 =======

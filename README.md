@@ -4,9 +4,9 @@ Farming Simulator 2025
 
 This is the git repo for the Pepega Squadron Farm.
 
-How To Become A Collaborator
-============================
-Only members of the Pepega Squadron will be allowed to become a collaborator.
+How To Become A Contributor
+===========================
+Only members of the Pepega Squadron will be allowed to become a Contributor.
 
 Admins & Mods
 =============
